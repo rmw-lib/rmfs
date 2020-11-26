@@ -1,15 +1,15 @@
-# @rmw/xxx
+# @rmw/rmfs
 
 ##  安装
 
 ```
-yarn add @rmw/xxx
+yarn add @rmw/rmfs
 ```
 
 或者
 
 ```
-npm install @rmw/xxx
+npm install @rmw/rmfs
 ```
 
 ## 使用
